@@ -1,0 +1,89 @@
+body {
+    background: linear-gradient(90deg, #12100E, #2B4162);
+}
+
+.wrapper {
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #0fa,
+        0 0 82px #0fa,
+        0 0 92px #0fa,
+        0 0 102px #0fa,
+        0 0 151px #0fa;
+
+    width: 200px;
+    height: 290px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 150px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: linear-gradient(109.6deg, rgb(43, 1, 91) 13.4%, rgb(122, 2, 54) 100.2%);
+    box-shadow: 0px 0px 10px rgb(183, 0, 255);
+
+    /* position:relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: 1; */
+
+}
+
+/* @keyframes example {
+        0%   {left:0px; top:0px;}
+        25%  {left:200px; top:0px;}
+        50%  {left:200px; top:200px;}
+        75%  {left:0px; top:200px;}
+        100% {left:0px; top:0px;}
+      } */
+
+
+.form-input {
+    padding: 10px;
+}
+
+.form-input1 {
+    padding: 5px;
+    -webkit-text-fill-color: #3c00ffa3;
+}
+
+.form-input2 {
+    padding: 5px;
+    -webkit-text-fill-color: #3c00ffa3;
+}
+
+.form-input3 {
+    padding: 10px;
+    width: 55px;
+    height: 11px;
+    margin: auto;
+
+}
+
+h4 {
+    color: yellow;
+    margin: 12px;
+}
+
+
+a {
+    color: rgb(128, 53, 0);
+    background: linear-gradient(68.3deg, rgb(23, 41, 77) 6.3%, rgb(243, 113, 154) 90.9%);
+    /* border: 2px solid rgb(25, 0, 248); */
+
+    border-radius: 10px;
+    padding: 6px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+
+    text-decoration: underline;
+    box-shadow: 0px 0px 100px rgb(81, 0, 255);
+}
